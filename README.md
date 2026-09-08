@@ -131,3 +131,4 @@ Le dashboard Power BI présente, sur une fenêtre glissante de 7 jours :
 - Répartition des conditions météo
 - Un indicateur de monitoring : nombre de villes chargées par jour, pour repérer visuellement les extractions incomplètes
 
+![alt text](<Capture d’écran 2026-09-08 174138-1.png>)
